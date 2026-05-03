@@ -9,10 +9,10 @@
 I'm an Electronics and Communications Engineering student at Mansoura University, deeply interested in Embedded Systems, Low-Level Programming, and Robotics.
 
 - 🎓 &nbsp; Studying at: Faculty of Engineering - Mansoura University.
-- 💼 &nbsp; Programming and Arduino Instructor.
+- 💼 &nbsp; Programming and Robotics Instructor.
 - 🚀 &nbsp; Currently working on: **Micromouse** and **Math Game with Java**.
 - 🌱 &nbsp; Learning more about: RTOS, Embedded Linux, and Signal Processing.
-- 🥋 &nbsp; Fun Fact: I practice Taekwondo and enjoy exploring the "Small Web" (Gemini/Gopher).
+- 🥋 &nbsp; Fun Fact: I enjoy exploring the "Small Web" (Gemini/Gopher).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ameen-ramadan/) [Gmail](mailto:rmdanamyn278@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
